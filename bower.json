@@ -1,0 +1,28 @@
+{
+  "name": "frontend-boilerplate",
+  "description": "Front-end boilerplate for development your new projects.",
+  "main": "index.js",
+  "authors": [
+    "Marcelo Araujo <marcelopaula.rj@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "front-end",
+    "boilerplate",
+    "html5",
+    "grunt",
+    "bower"
+  ],
+  "homepage": "https://github.com/marcelopaula/frontend-boilerplate",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
