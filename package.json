@@ -1,0 +1,26 @@
+{
+  "name": "frontend-boilerplate",
+  "version": "1.0.0",
+  "description": "Front-end boilerplate for development your new projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelopaula/frontend-boilerplate.git"
+  },
+  "keywords": [
+    "front-end",
+    "boilerplate",
+    "html5",
+    "grunt",
+    "bower"
+  ],
+  "author": "Marcelo Araujo <marcelopaula.rj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelopaula/frontend-boilerplate/issues"
+  },
+  "homepage": "https://github.com/marcelopaula/frontend-boilerplate#readme"
+}
